@@ -80,7 +80,7 @@ plot(TukeyHSD(model1),las=2)
 ```
 
 
-
+The LT High School-Graduate lines did not cross the zero line. Both did not have zero in their confidence intervals, and therefore do not have significant difference between the two categories. However, Junior College and Bachelor students, apperared to have scored roughly the same.
 
 
 # Discussion and Conclusion
