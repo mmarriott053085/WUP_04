@@ -80,9 +80,14 @@ plot(TukeyHSD(model1),las=2)
 ```
 
 
-The LT High School-Graduate lines did not cross the zero line. Both did not have zero in their confidence intervals, and therefore do not have significant difference between the two categories. However, Junior College and Bachelor students, apperared to have scored roughly the same.
+The LT High School-Graduate lines did not cross the zero line. Both did not have zero in their confidence intervals, and therefore do not have significant difference between the two categories. However, Junior College and Bachelor students, appeared to have scored roughly the same.
 
 
 # Discussion and Conclusion
+
+We used a boxplot, numerical data, and inferential data analysis to test whether education level had any significant difference on the test scores. There is a slight difference is test scores between LT and Graduate, it is small. I have also concluded that there is virtually no difference in the scores of Junior College and Bachelor students. LT High School and High School students also share nearly the same scores. Therefore,based on the test, I concluded that education level did not have any sigfificant effect on the test scores.
+
+
+
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
